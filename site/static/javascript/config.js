@@ -1,0 +1,1 @@
+var SubDomain = 'demo'; var SiteID = 'CF37125A-95D6-4150-AD1B-7CCE17C323E9'; var host = 'https://api.eraconnect.net';
